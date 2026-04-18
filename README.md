@@ -6,8 +6,8 @@
 No setup needed. Just clone and open.
 
 ```bash
-git clone https://github.com/preetikhradia/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/preetikhradia/Portfolio.git
+cd Portfolio
 open index.html
 ```
 
